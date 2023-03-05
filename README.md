@@ -1,5 +1,5 @@
 # SpeakChess 😃
-SpeakChess is the project developed by  which implemesnts text-to-speech and speech-to-text to help players who experiencing disabilities to play chess normally.
+SpeakChess is the project developed by Eric Zhou, Daryus Ramkalawan, Dumebi and Josh Fernando which implemesnts text-to-speech and speech-to-text to help players who experiencing disabilities to play chess normally.
 
 
 ## 💡 Inspiration
