@@ -1,6 +1,7 @@
 # SpeakChess 😃
 SpeakChess is the project developed by  which implemesnts text-to-speech and speech-to-text to help players who experiencing disabilities to play chess normally.
 
+
 ## 💡 Inspiration
 
 At the core of our team's inspiration for the SpeakChess project is the desire to create a more inclusive and accessible world. We firmly believe that technology has the power to break down barriers and create a level playing field for everyone, regardless of their abilities or disabilities.
@@ -88,3 +89,17 @@ We also plan to add more features to the app to make it even more accessible and
 In addition to these features, we are also looking into integrating audio descriptions for visually impaired users. This feature will allow users to hear a description of the board's current state, making it easier for them to plan their moves and develop their strategies.
 
 Overall, our goal is to continue promoting inclusivity and accessibility in the chess community, and we believe that SpeakChess is an excellent tool to achieve this goal. We are committed to making the app as inclusive and useful as possible, and we believe that our future plans will help us achieve this goal.
+
+
+## Links
+
+- [Youtube Demo Video](https://www.youtube.com/watch?v=V_sm7ReB-OU)
+- [Teammate Git Repo](https://github.com/dumebi-osadebe/Chess-game)
+- [Devpost](https://devpost.com/software/speakchess)
+
+
+![](./Img/1.jpg)
+![](./Img/5.png)
+![](./Img/2.jpg)
+![](./Img/3.jpg)
+![](./Img/4.jpg)
